@@ -7,12 +7,16 @@
 ## 🖥️ Languages
 Python R MYSQL MATLAB SPSS STATA
 
-
-
 ## ✨ Python Libraries
 NumPy Pandas Scikit-Learn Matplotliab Seaborn SciPy TensorFlow
 
-## Cloud
+## 🔗 Cloud Platform
+Azure
 
 ## 📂 Tool
 Jupyter Latex Anaconda-Navigator MS Office G-suite
+
+## 📄 Publications
+Multi-objective optimisation of multifaceted maintenance strategies for wind farms
+
+[Ma, Y., Zhang, W., & Branke, J. (2022). Multi-objective optimisation of multifaceted maintenance strategies for wind farms. Journal of the Operational Research Society, 1-16.]
